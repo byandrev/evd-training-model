@@ -1,0 +1,601 @@
+text,label
+La evaluación no corresponde a lo visto.,critico
+No respeta el horario.,critico
+Los parciales son justos.,normal
+Se presentó drogado.,muy_critico
+Siempre avisa si falta.,normal
+Siempre cumple el horario.,normal
+Es un peligro.,muy_critico
+Siempre llega de mal humor.,critico
+El docente nos insultó gravemente.,muy_critico
+Nos trata de estúpidos.,critico
+A veces nos deja salir antes.,normal
+El profesor explica bastante bien el contenido.,normal
+No ayuda a los estudiantes.,critico
+Tiene clásica metodología.,normal
+Ataca a los extranjeros.,muy_critico
+Me invitó a salir por notas.,muy_critico
+Dijo que nos iba a golpear.,muy_critico
+Tiene clásica metodología.,normal
+Es muy irresponsable.,critico
+Odia a los becados.,muy_critico
+Hizo comentarios racistas.,muy_critico
+La clase es larga pero habla bajito.,normal
+Sus diapositivas son útiles.,normal
+Sus diapositivas son muy cargadas.,normal
+No responde dudas.,critico
+La materia es aburrida.,normal
+El profesor explica con ejemplos los ejercicios.,normal
+Me mira de forma morbosa.,muy_critico
+Siempre llega de mal humor.,critico
+Es chistoso con los estudiantes.,normal
+Nos amenazó físicamente.,muy_critico
+Es un acosador.,muy_critico
+Tiene buena metodología.,normal
+Siempre avisa si falta.,normal
+Me invitó a salir por notas.,muy_critico
+Siempre avisa si falta.,normal
+Es inestable.,muy_critico
+Es amable con los estudiantes.,normal
+Es buena gente con los estudiantes.,normal
+Es agresivo.,muy_critico
+Siempre pierde el tiempo.,critico
+Siempre termina a tiempo.,normal
+Los parciales son fáciles.,normal
+Ignora a los estudiantes.,critico
+El docente nos insultó gravemente.,muy_critico
+La evaluación demora en entregarse.,critico
+Siempre cumple el horario.,normal
+Siempre pierde el tiempo.,critico
+Sus diapositivas son útiles.,normal
+El profesor explica bastante bien el contenido.,normal
+Se presentó oliendo a alcohol.,muy_critico
+Deberían echarlo.,muy_critico
+Ataca a los extranjeros.,muy_critico
+Es agresivo.,muy_critico
+Falta claridad.,critico
+El profesor falta mucho.,critico
+El profesor explica muy bien la teoría.,normal
+Se presentó drogado.,muy_critico
+El docente nos insultó gravemente.,muy_critico
+Ataca a los extranjeros.,muy_critico
+A veces nos deja salir antes.,normal
+Sus diapositivas son buenas.,normal
+Se burla de las dudas.,critico
+Sus diapositivas son buenas.,normal
+Hizo comentarios clasistas.,muy_critico
+Es muy grosero.,critico
+No responde dudas.,critico
+El docente golpeó la mesa violentamente.,muy_critico
+Los parciales son difíciles.,normal
+El profesor explica muy bien los ejercicios.,normal
+Falta claridad.,critico
+No prepara las clases.,critico
+Siempre avisa si falta.,normal
+La clase es pesada pero aprendí mucho.,normal
+Se nota que domina el tema.,normal
+El docente empujó a un alumno.,muy_critico
+Los parciales son justos.,normal
+La clase es aburrida pero es pasable.,normal
+Tiene interesante metodología.,normal
+Se presentó drogado.,muy_critico
+A veces llega tarde.,normal
+No prepara las clases.,critico
+Me mira de forma morbosa.,muy_critico
+La clase es dinámica pero se entiende.,normal
+La clase es larga pero a veces me duermo.,normal
+Deberían echarlo.,muy_critico
+El docente empujó a un alumno.,muy_critico
+Deberían quitarle la materia.,muy_critico
+La evaluación no es clara.,critico
+Deberían denunciarlo.,muy_critico
+Falta compromiso.,critico
+Siempre se molesta por preguntas.,critico
+Hizo comentarios homofóbicos.,muy_critico
+Amenazó con rajar a todos.,muy_critico
+Acosa a las compañeras.,muy_critico
+El docente golpeó la mesa violentamente.,muy_critico
+Hizo comentarios vulgares.,muy_critico
+La evaluación no es clara.,critico
+Deberían quitarle la materia.,muy_critico
+Es chistoso con los estudiantes.,normal
+Tiene aires de superioridad.,critico
+Siempre pierde el tiempo.,critico
+Es muy impuntual.,critico
+Sus diapositivas son buenas.,normal
+Discrimina por raza.,muy_critico
+Me mira de forma morbosa.,muy_critico
+Es un abusador.,muy_critico
+Se presentó borracho.,muy_critico
+Tiene buena metodología.,normal
+El profesor explica con ejemplos los ejercicios.,normal
+Tiene buena metodología.,normal
+El profesor explica de forma regular la teoría.,normal
+No tiene dominio del tema.,critico
+La materia es fácil.,normal
+El profesor no explica bien.,critico
+A veces se desvía del tema.,normal
+Es inestable.,muy_critico
+No ayuda a los estudiantes.,critico
+La materia es fácil.,normal
+Hizo comentarios clasistas.,muy_critico
+El profesor explica muy bien el contenido.,normal
+No prepara las clases.,critico
+Hizo comentarios machistas.,muy_critico
+Es muy prepotente.,critico
+Sus diapositivas son confusas.,normal
+El profesor explica muy bien la teoría.,normal
+Hizo comentarios machistas.,muy_critico
+Hizo comentarios homofóbicos.,muy_critico
+Se nota que prepara la clase.,normal
+El profesor llega tarde siempre.,critico
+Intimida gritando.,muy_critico
+Se nota que prepara la clase.,normal
+Falta respeto.,critico
+Falta organización.,critico
+Sus diapositivas son claras.,normal
+Se nota que le gusta enseñar.,normal
+Tiene favoritismos.,critico
+Deberían denunciarlo.,muy_critico
+Siempre avisa si falta.,normal
+Es un acosador.,muy_critico
+Hizo comentarios racistas.,muy_critico
+A veces hace chistes.,normal
+Tiene mala actitud.,critico
+Falta claridad.,critico
+La materia es aburrida.,normal
+Humilla a los que preguntan.,critico
+Deberían denunciarlo.,muy_critico
+Incitó al odio.,muy_critico
+Ataca a los extranjeros.,muy_critico
+No prepara las clases.,critico
+Se presentó oliendo a alcohol.,muy_critico
+Es muy prepotente.,critico
+Dijo que nos iba a golpear.,muy_critico
+Tiene pereza para enseñar.,critico
+Siempre nos grita.,critico
+Tiene clásica metodología.,normal
+La clase es larga pero falta práctica.,normal
+Amenazó con rajar a todos.,muy_critico
+Es un acosador.,muy_critico
+Se nota que le gusta enseñar.,normal
+Es muy impuntual.,critico
+Sus diapositivas son útiles.,normal
+El docente empujó a un alumno.,muy_critico
+Los parciales son acordes a la clase.,normal
+El docente empujó a un alumno.,muy_critico
+Es estricto con los estudiantes.,normal
+La materia es difícil.,normal
+El docente me tocó sin consentimiento.,muy_critico
+Se presentó drogado.,muy_critico
+Es muy impuntual.,critico
+Se nota que le gusta enseñar.,normal
+El docente golpeó la mesa violentamente.,muy_critico
+Falta preparación.,critico
+El profesor explica rápido la teoría.,normal
+Es muy irresponsable.,critico
+Siempre cumple el horario.,normal
+Sus diapositivas son muy cargadas.,normal
+Se presentó drogado.,muy_critico
+Los parciales son difíciles.,normal
+La clase es larga pero habla bajito.,normal
+Los parciales son acordes a la clase.,normal
+Humilla a los que preguntan.,critico
+Humilla a los que preguntan.,critico
+Tiene buena metodología.,normal
+La evaluación es injusta.,critico
+Siempre cumple el horario.,normal
+Tiene pereza para enseñar.,critico
+Hizo comentarios homofóbicos.,muy_critico
+Hizo comentarios sexistas.,muy_critico
+Tiene interesante metodología.,normal
+Siempre avisa si falta.,normal
+La evaluación es injusta.,critico
+Falta compromiso.,critico
+Es chistoso con los estudiantes.,normal
+Ignora a los estudiantes.,critico
+Es muy grosero.,critico
+Hizo comentarios clasistas.,muy_critico
+La clase es interesante pero se entiende.,normal
+Los parciales son acordes a la clase.,normal
+Siempre llega de mal humor.,critico
+Se presentó oliendo a alcohol.,muy_critico
+No prepara las clases.,critico
+El profesor lee las diapositivas.,critico
+Es serio con los estudiantes.,normal
+Siempre llega de mal humor.,critico
+Se presentó borracho.,muy_critico
+No ayuda a los estudiantes.,critico
+El profesor se enreda explicando.,critico
+Deberían quitarle la materia.,muy_critico
+La evaluación es muy difícil.,critico
+Sus diapositivas son buenas.,normal
+Deberían denunciarlo.,muy_critico
+Los parciales son acordes a la clase.,normal
+Tiene clásica metodología.,normal
+Me escribió mensajes inapropiados.,muy_critico
+Siempre avisa si falta.,normal
+Deberían investigarlo.,muy_critico
+Se presentó borracho.,muy_critico
+Es muy confuso.,critico
+Es inestable.,muy_critico
+Sus diapositivas son puro texto.,normal
+Se nota que le gusta enseñar.,normal
+Es muy arrogante.,critico
+Hizo comentarios racistas.,muy_critico
+Ignora a los estudiantes.,critico
+La clase es larga pero a veces me duermo.,normal
+No prepara las clases.,critico
+El profesor improvisa las clases.,critico
+La clase es dinámica pero falta práctica.,normal
+Falta pedagogía.,critico
+Siempre se molesta por preguntas.,critico
+Es muy arrogante.,critico
+La evaluación demora en entregarse.,critico
+Siempre llega de mal humor.,critico
+El docente empujó a un alumno.,muy_critico
+Es inestable.,muy_critico
+Es amable con los estudiantes.,normal
+Es muy prepotente.,critico
+El profesor explica muy bien los temas.,normal
+Es respetuoso con los estudiantes.,normal
+La evaluación es injusta.,critico
+A veces se desvía del tema.,normal
+Los parciales son largos.,normal
+No tiene dominio del tema.,critico
+Es respetuoso con los estudiantes.,normal
+Sus diapositivas son claras.,normal
+Deberían denunciarlo.,muy_critico
+Siempre cambia las reglas.,critico
+Tiene clásica metodología.,normal
+Es estricto con los estudiantes.,normal
+La materia es compleja.,normal
+Tiene mala actitud.,critico
+El profesor explica de forma regular los temas.,normal
+Odia a los becados.,muy_critico
+La clase es pesada pero falta práctica.,normal
+Siempre se molesta por preguntas.,critico
+Siempre avisa si falta.,normal
+La materia es difícil.,normal
+La evaluación es injusta.,critico
+Tiene pereza para enseñar.,critico
+Deberían quitarle la materia.,muy_critico
+El profesor se enreda explicando.,critico
+Deberían quitarle la materia.,muy_critico
+Nos amenazó físicamente.,muy_critico
+Hizo comentarios homofóbicos.,muy_critico
+Siempre cumple el horario.,normal
+Es agresivo.,muy_critico
+El docente empujó a un alumno.,muy_critico
+Siempre avisa si falta.,normal
+Se burla de las dudas.,critico
+Se nota que domina el tema.,normal
+La evaluación es injusta.,critico
+Intimida gritando.,muy_critico
+Siempre llega de mal humor.,critico
+No prepara las clases.,critico
+Deberían denunciarlo.,muy_critico
+Siempre nos grita.,critico
+Es amable con los estudiantes.,normal
+El profesor explica bastante bien los temas.,normal
+A veces nos deja salir antes.,normal
+Es chistoso con los estudiantes.,normal
+Ataca a los extranjeros.,muy_critico
+Incitó al odio.,muy_critico
+Se presentó borracho.,muy_critico
+El docente me tocó sin consentimiento.,muy_critico
+Hizo comentarios clasistas.,muy_critico
+No ayuda a los estudiantes.,critico
+Se burla de las mujeres.,muy_critico
+Siempre termina a tiempo.,normal
+Los parciales son justos.,normal
+A veces hace chistes.,normal
+Siempre cambia las reglas.,critico
+Siempre pierde el tiempo.,critico
+Hizo comentarios racistas.,muy_critico
+Los parciales son acordes a la clase.,normal
+Deberían quitarle la materia.,muy_critico
+Falta respeto.,critico
+Es muy prepotente.,critico
+Se presentó drogado.,muy_critico
+El docente me tocó sin consentimiento.,muy_critico
+Sus diapositivas son claras.,normal
+Siempre se molesta por preguntas.,critico
+Siempre llega de mal humor.,critico
+El profesor no explica bien.,critico
+El profesor explica claramente el contenido.,normal
+Deberían investigarlo.,muy_critico
+Hizo comentarios de odio.,muy_critico
+La evaluación no corresponde a lo visto.,critico
+Sus diapositivas son muy cargadas.,normal
+Falta compromiso.,critico
+Es estricto con los estudiantes.,normal
+A veces se desvía del tema.,normal
+Hizo comentarios vulgares.,muy_critico
+Hizo comentarios homofóbicos.,muy_critico
+Los parciales son justos.,normal
+Es muy confuso.,critico
+Ataca a los extranjeros.,muy_critico
+Deberían investigarlo.,muy_critico
+La clase es buena pero habla bajito.,normal
+No tiene dominio del tema.,critico
+Se presentó borracho.,muy_critico
+Se presentó drogado.,muy_critico
+La evaluación es injusta.,critico
+Me escribió mensajes inapropiados.,muy_critico
+La materia es compleja.,normal
+Dijo que nos iba a golpear.,muy_critico
+Se presentó muy agresivo.,muy_critico
+Sus diapositivas son muy cargadas.,normal
+Los parciales son fáciles.,normal
+No prepara las clases.,critico
+Ignora a los estudiantes.,critico
+Falta organización.,critico
+Deberían despedirlo inmediatamente.,muy_critico
+La clase es interesante pero aprendí mucho.,normal
+Se nota que le gusta enseñar.,normal
+Nos trata de estúpidos.,critico
+Sus diapositivas son claras.,normal
+La evaluación es muy difícil.,critico
+Tiene pereza para enseñar.,critico
+No ayuda a los estudiantes.,critico
+No responde dudas.,critico
+Es buena gente con los estudiantes.,normal
+La materia es interesante.,normal
+Es muy grosero.,critico
+Siempre cumple el horario.,normal
+No tiene dominio del tema.,critico
+El profesor explica de forma regular el contenido.,normal
+La materia es fácil.,normal
+El docente golpeó la mesa violentamente.,muy_critico
+El profesor explica bastante bien el contenido.,normal
+Hizo comentarios vulgares.,muy_critico
+Siempre se molesta por preguntas.,critico
+La clase es larga pero habla bajito.,normal
+Es un abusador.,muy_critico
+Se nota que domina el tema.,normal
+Intimida gritando.,muy_critico
+Hizo comentarios vulgares.,muy_critico
+La clase es monótona pero falta práctica.,normal
+Siempre avisa si falta.,normal
+Humilla a los que preguntan.,critico
+El profesor no explica bien.,critico
+Es inestable.,muy_critico
+La evaluación no corresponde a lo visto.,critico
+Deberían denunciarlo.,muy_critico
+Siempre nos grita.,critico
+Los parciales son acordes a la clase.,normal
+Tiene regular metodología.,normal
+Nos trata de estúpidos.,critico
+No prepara las clases.,critico
+Es inestable.,muy_critico
+Siempre llega puntual.,normal
+El profesor explica bastante bien la teoría.,normal
+Es un abusador.,muy_critico
+Humilla a los que preguntan.,critico
+Es serio con los estudiantes.,normal
+Es estricto con los estudiantes.,normal
+La evaluación es muy difícil.,critico
+Falta claridad.,critico
+Es agresivo.,muy_critico
+Pide favores sexuales.,muy_critico
+Tiene mala actitud.,critico
+Odia a los becados.,muy_critico
+Acosa a las compañeras.,muy_critico
+Los parciales son difíciles.,normal
+Ignora a los estudiantes.,critico
+El profesor falta mucho.,critico
+Me mira de forma morbosa.,muy_critico
+Tiene aires de superioridad.,critico
+Siempre pierde el tiempo.,critico
+El profesor falta mucho.,critico
+Tiene mala actitud.,critico
+Es muy confuso.,critico
+No prepara las clases.,critico
+Ataca a los extranjeros.,muy_critico
+La materia es fácil.,normal
+No ayuda a los estudiantes.,critico
+Siempre cumple el horario.,normal
+Falta respeto.,critico
+No responde dudas.,critico
+El profesor lee las diapositivas.,critico
+Deberían denunciarlo.,muy_critico
+El docente me pidió dinero.,muy_critico
+Nos amenazó físicamente.,muy_critico
+Falta respeto.,critico
+La evaluación demora en entregarse.,critico
+Es agresivo.,muy_critico
+Es un acosador.,muy_critico
+Se presentó muy agresivo.,muy_critico
+Se presentó drogado.,muy_critico
+Tiene aires de superioridad.,critico
+La clase es monótona pero habla bajito.,normal
+Se nota que domina el tema.,normal
+La materia es útil.,normal
+Siempre llega de mal humor.,critico
+El docente golpeó la mesa violentamente.,muy_critico
+Nos amenazó físicamente.,muy_critico
+Discrimina por raza.,muy_critico
+Falta claridad.,critico
+La evaluación es muy difícil.,critico
+El docente me tocó sin consentimiento.,muy_critico
+Los parciales son fáciles.,normal
+A veces nos deja salir antes.,normal
+Incitó al odio.,muy_critico
+La evaluación es muy difícil.,critico
+Incitó al odio.,muy_critico
+Deberían investigarlo.,muy_critico
+La clase es pesada pero falta práctica.,normal
+La clase es pesada pero aprendí mucho.,normal
+Los parciales son acordes a la clase.,normal
+La materia es útil.,normal
+Es un abusador.,muy_critico
+La evaluación demora en entregarse.,critico
+Tiene pereza para enseñar.,critico
+Acosa a las compañeras.,muy_critico
+Deberían echarlo.,muy_critico
+Tiene pereza para enseñar.,critico
+Deberían quitarle la materia.,muy_critico
+Se nota que sabe mucho.,normal
+Me escribió mensajes inapropiados.,muy_critico
+Deberían denunciarlo.,muy_critico
+Falta respeto.,critico
+Pide favores sexuales.,muy_critico
+Tiene aires de superioridad.,critico
+El profesor no explica bien.,critico
+El docente empujó a un alumno.,muy_critico
+Acosa a las compañeras.,muy_critico
+Los parciales son fáciles.,normal
+Se nota que le gusta enseñar.,normal
+El profesor explica con ejemplos la teoría.,normal
+Siempre cambia las reglas.,critico
+La evaluación demora en entregarse.,critico
+Tiene aires de superioridad.,critico
+Hizo comentarios machistas.,muy_critico
+La materia es fácil.,normal
+Falta pedagogía.,critico
+Es buena gente con los estudiantes.,normal
+Ataca a los extranjeros.,muy_critico
+Siempre se molesta por preguntas.,critico
+Siempre se molesta por preguntas.,critico
+No respeta el horario.,critico
+Es agresivo.,muy_critico
+Los parciales son largos.,normal
+Es chistoso con los estudiantes.,normal
+Me invitó a salir por notas.,muy_critico
+No responde dudas.,critico
+La clase es dinámica pero se entiende.,normal
+Tiene aires de superioridad.,critico
+Falta respeto.,critico
+Se burla de las mujeres.,muy_critico
+El docente nos insultó gravemente.,muy_critico
+Ataca a los extranjeros.,muy_critico
+Tiene clásica metodología.,normal
+Se nota que sabe mucho.,normal
+Los parciales son acordes a la clase.,normal
+Deberían denunciarlo.,muy_critico
+La materia es compleja.,normal
+Se nota que le gusta enseñar.,normal
+Es un abusador.,muy_critico
+Es chistoso con los estudiantes.,normal
+No respeta el horario.,critico
+El profesor explica de forma regular la teoría.,normal
+Siempre llega de mal humor.,critico
+Dijo que nos iba a golpear.,muy_critico
+Deberían denunciarlo.,muy_critico
+Me invitó a salir por notas.,muy_critico
+El docente me tocó sin consentimiento.,muy_critico
+Falta organización.,critico
+Falta pedagogía.,critico
+Ignora a los estudiantes.,critico
+Los parciales son acordes a la clase.,normal
+A veces nos deja salir antes.,normal
+Se presentó borracho.,muy_critico
+Dijo que nos iba a golpear.,muy_critico
+Hizo comentarios homofóbicos.,muy_critico
+Acosa a las compañeras.,muy_critico
+Deberían denunciarlo.,muy_critico
+La evaluación no es clara.,critico
+Deberían despedirlo inmediatamente.,muy_critico
+El profesor se enreda explicando.,critico
+Se nota que prepara la clase.,normal
+Nos amenazó físicamente.,muy_critico
+Siempre llega puntual.,normal
+Se nota que domina el tema.,normal
+La clase es dinámica pero es pasable.,normal
+Es chistoso con los estudiantes.,normal
+El profesor falta mucho.,critico
+No responde dudas.,critico
+Se nota que prepara la clase.,normal
+Es muy desorganizado.,critico
+Es un acosador.,muy_critico
+Deberían quitarle la materia.,muy_critico
+Siempre cambia las reglas.,critico
+La evaluación demora en entregarse.,critico
+Es respetuoso con los estudiantes.,normal
+Falta compromiso.,critico
+Es chistoso con los estudiantes.,normal
+Deberían despedirlo inmediatamente.,muy_critico
+No tiene dominio del tema.,critico
+Amenazó con rajar a todos.,muy_critico
+El profesor se enreda explicando.,critico
+La materia es fácil.,normal
+A veces nos deja salir antes.,normal
+Deberían quitarle la materia.,muy_critico
+Se burla de las mujeres.,muy_critico
+A veces nos deja salir antes.,normal
+El profesor improvisa las clases.,critico
+Es inestable.,muy_critico
+Tiene mala actitud.,critico
+Es inestable.,muy_critico
+Hizo comentarios de odio.,muy_critico
+Se presentó borracho.,muy_critico
+La clase es monótona pero falta práctica.,normal
+Falta compromiso.,critico
+El profesor lee las diapositivas.,critico
+Tiene pereza para enseñar.,critico
+La evaluación no corresponde a lo visto.,critico
+La evaluación es muy difícil.,critico
+El profesor explica bastante bien los temas.,normal
+Falta compromiso.,critico
+Deberían despedirlo inmediatamente.,muy_critico
+Los parciales son largos.,normal
+Intimida gritando.,muy_critico
+A veces llega tarde.,normal
+Deberían despedirlo inmediatamente.,muy_critico
+Los parciales son fáciles.,normal
+Se nota que sabe mucho.,normal
+El docente empujó a un alumno.,muy_critico
+Intimida gritando.,muy_critico
+La evaluación demora en entregarse.,critico
+Se nota que le gusta enseñar.,normal
+Falta compromiso.,critico
+No prepara las clases.,critico
+El profesor explica con ejemplos la teoría.,normal
+El profesor no explica bien.,critico
+Tiene regular metodología.,normal
+Se burla de las dudas.,critico
+Es agresivo.,muy_critico
+La evaluación es muy difícil.,critico
+Se presentó oliendo a alcohol.,muy_critico
+Sus diapositivas son puro texto.,normal
+Falta preparación.,critico
+A veces llega tarde.,normal
+Tiene aires de superioridad.,critico
+Tiene interesante metodología.,normal
+Sus diapositivas son buenas.,normal
+Tiene interesante metodología.,normal
+Es violento.,muy_critico
+No respeta el horario.,critico
+Deberían denunciarlo.,muy_critico
+El profesor falta mucho.,critico
+Deberían quitarle la materia.,muy_critico
+Sus diapositivas son buenas.,normal
+Siempre pierde el tiempo.,critico
+Se presentó muy agresivo.,muy_critico
+Falta compromiso.,critico
+Falta claridad.,critico
+Dijo que nos iba a golpear.,muy_critico
+No prepara las clases.,critico
+Es un abusador.,muy_critico
+Dijo que nos iba a golpear.,muy_critico
+Tiene interesante metodología.,normal
+Ataca a los extranjeros.,muy_critico
+Hizo comentarios machistas.,muy_critico
+El docente me tocó sin consentimiento.,muy_critico
+El profesor improvisa las clases.,critico
+Tiene pereza para enseñar.,critico
+Hizo comentarios clasistas.,muy_critico
+Es muy grosero.,critico
+Falta preparación.,critico
+Falta compromiso.,critico
+El docente me pidió dinero.,muy_critico
+Es violento.,muy_critico
+Discrimina por raza.,muy_critico
+El docente golpeó la mesa violentamente.,muy_critico
+Se presentó drogado.,muy_critico
+Humilla a los que preguntan.,critico
+A veces llega tarde.,normal
+Los parciales son fáciles.,normal
+No ayuda a los estudiantes.,critico
+La evaluación demora en entregarse.,critico
