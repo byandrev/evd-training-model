@@ -36,34 +36,27 @@ Spanish translation:"""
     return call_ollama(prompt)
 
 
-def classify_criticality(comment: str) -> Literal["normal", "critico", "muy critico"]:
+def classify_criticality(comment: str) -> Literal["good", "low", "critical", "very_critical"]:
     """Clasifica el nivel de criticidad de un comentario."""
-    if not comment or comment.strip() == "No Comments":
-        return "normal"
 
     prompt = f"""Analyze the following comment and classify its criticality level.
 The comment is feedback about a professor/teacher.
 
 Classify as:
-- "normal": Neutral or positive feedback, constructive criticism
-- "critico": Negative feedback, complaints, frustration expressed
-- "muy critico": Very negative feedback, harsh criticism, strong negative emotions, mentions of failure, dropping class, or serious complaints
+- good: Buenos comentarios hacia el docente o su clase.
+- low: Quejas sobre pedagogía, puntualidad u organización (Riesgo bajo).
+- critical: Quejas sobre actitud, faltas de respeto, gritos o humillación (Riesgo medio/actitudinal).
+- very_critical: Acoso sexual, soborno, racismo, amenazas físicas o estado de embriaguez (Riesgo alto/legal).
 
-Only respond with one of these three words: normal, critico, muy critico
+Only respond with one of these four words: good, low, critical, very_critical
 
 Comment: {comment}
 
 Criticality level:"""
 
     response = call_ollama(prompt).lower().strip()
+    return response
 
-    # Normalizar la respuesta
-    if "muy critico" in response or "muy crítico" in response:
-        return "muy critico"
-    elif "critico" in response or "crítico" in response:
-        return "critico"
-    else:
-        return "normal"
 
 
 def process_feedback(input_file: str, output_file: str):
